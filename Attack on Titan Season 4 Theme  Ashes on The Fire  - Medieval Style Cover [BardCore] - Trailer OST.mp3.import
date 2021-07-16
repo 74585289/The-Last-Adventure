@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Attack on Titan Season 4 Theme  Ashes on The Fire  - Medieval Style Cover [BardCore] - Trailer OST.mp3-f5b7556e3242ea62420e56ddd0f4d96f.mp3str"
+
+[deps]
+
+source_file="res://Attack on Titan Season 4 Theme  Ashes on The Fire  - Medieval Style Cover [BardCore] - Trailer OST.mp3"
+dest_files=[ "res://.import/Attack on Titan Season 4 Theme  Ashes on The Fire  - Medieval Style Cover [BardCore] - Trailer OST.mp3-f5b7556e3242ea62420e56ddd0f4d96f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
